@@ -1,0 +1,17 @@
+com/example/weather/domain/CityForecast.class
+com/example/weather/service/PopulateResultService.class
+com/example/weather/exceptions/CsvCreationException.class
+com/example/weather/service/CsvWriterService.class
+org/openapitools/api/ApiUtil.class
+com/example/weather/service/AverageCalculatorService.class
+com/example/weather/util/Constants.class
+com/example/weather/service/WeatherService.class
+com/example/weather/controller/WeatherController.class
+com/example/weather/service/HttpRequestService.class
+com/example/weather/domain/Forecast.class
+com/example/weather/domain/WeatherInformation.class
+org/openapitools/model/City.class
+org/openapitools/model/Result.class
+org/openapitools/api/WeatherApi.class
+com/example/weather/config/Configuration.class
+com/example/weather/WeatherApplication.class

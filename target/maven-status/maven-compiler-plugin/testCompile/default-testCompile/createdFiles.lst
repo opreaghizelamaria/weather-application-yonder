@@ -1,0 +1,8 @@
+com/example/weather/service/WeatherServiceTest.class
+com/example/weather/service/AverageCalculatorServiceTest.class
+com/example/weather/service/HttpRequestServiceTest.class
+com/example/weather/service/CsvWriterServiceTest.class
+com/example/weather/service/PopulateResultServiceTest.class
+com/example/weather/WeatherControllerITest.class
+com/example/weather/WeatherApplicationTests.class
+com/example/weather/util/TestData.class

@@ -1,0 +1,7 @@
+.openapi-generator-ignore
+README.md
+pom.xml
+src/gen/java/main/org/openapitools/api/ApiUtil.java
+src/gen/java/main/org/openapitools/api/WeatherApi.java
+src/gen/java/main/org/openapitools/model/City.java
+src/gen/java/main/org/openapitools/model/Result.java
