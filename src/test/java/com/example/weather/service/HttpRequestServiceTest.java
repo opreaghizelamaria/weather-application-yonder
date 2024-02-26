@@ -20,6 +20,9 @@ public class HttpRequestServiceTest {
                 .expectStatus().is4xxClientError();
     }
 
+    /**
+     * Disabled "Usage limit reached"
+     */
     @Disabled
     @Test
     void getDataForAradTest(){

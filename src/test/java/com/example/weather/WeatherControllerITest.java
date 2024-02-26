@@ -13,8 +13,6 @@ import org.springframework.test.web.reactive.server.WebTestClient;
 import reactor.core.publisher.Flux;
 import reactor.test.StepVerifier;
 
-import java.io.IOException;
-
 @RunWith(SpringRunner.class)
 @ComponentScan
 @WebFluxTest(WeatherController.class)
